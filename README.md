@@ -2,7 +2,7 @@
 
 Fazendo download do instalador e executando o instalador: 💾
 ```bash
-sudo apt install -y git && git clone https://github.com/whaticketclick2024/Instalador.git whaticketpro && sudo chmod -R 777 ./whaticketpro && cd ./whaticketpro && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/ardilaapp/whaticketproinstalador.git whaticketproinstalador && sudo chmod -R 777 ./whaticketproinstalador && cd ./whaticketproinstalador && sudo ./install_primaria
 ```
 
 ## Requisitos
